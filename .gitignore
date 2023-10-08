@@ -1,3 +1,56 @@
+# ONES I ADDED MYSELF FIRST ---------
+
+# Visual Studio Code directories and files
+.vscode/
+*.code-workspace
+
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled files
+build/
+dist/
+*.min.js
+
+# Dependency directories
+bower_components/
+
+# Environment files
+.env
+
+# Editor-specific files
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+log/
+logs/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Yarn
+.yarn/
+
+# Editor SASS cache
+.sass-cache/
+
+# Windows
+Desktop.ini
+
+
+
+
+
 # Logs
 logs
 *.log
@@ -128,3 +181,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
