@@ -1,10 +1,9 @@
-const container = document.getElementById('cloud-container');
-const image = document.getElementById('black-cloud');
+const image = document.getElementById('cloud-container');
 
 // Function to animate the image
 function moveImage() {
     const speed = 2; // Adjust the speed as needed
-    const maxWidth = container.offsetWidth;
+    const maxWidth = window.innerWidth;
 
     let currentPosition = 0;
 

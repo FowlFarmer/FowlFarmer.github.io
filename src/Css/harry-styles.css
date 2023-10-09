@@ -30,4 +30,9 @@ body{
 #main-body{
     background-color: black;
 }
+#cloud-container{
+    position: absolute;
+    top: 50px;
+    left: 0;
+}
 
