@@ -2,8 +2,32 @@
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
-
+body{
+    margin: 0;
+}
 .visible {
     opacity: 1;
     transition: opacity 0.5s ease-in-out;
 }
+.center-text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#centered-helloworld {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#helloworld-image-code {
+    width: 40vh;
+    height: auto;
+}
+#main-body{
+    background-color: black;
+}
+
